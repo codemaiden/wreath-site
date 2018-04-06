@@ -1,0 +1,47 @@
+{
+  "name": "wreath-site",
+  "version": "1.0.0",
+  "description": "e-commerce site for wreaths",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-saints/wreath-site.git"
+  },
+  "keywords": [
+    "js",
+    "nodejs",
+    "reactjs",
+    "e-commerce",
+    "firestore"
+  ],
+  "author": "Nick Kaufmann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coding-saints/wreath-site/issues"
+  },
+  "homepage": "https://github.com/coding-saints/wreath-site#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cross-env": "^5.1.4",
+    "express": "^4.16.3",
+    "helmet": "^3.12.0",
+    "history": "^4.7.2",
+    "immutable": "^3.8.2",
+    "intl": "^1.2.5",
+    "logger": "0.0.1",
+    "minimist": "^1.2.0",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.3",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-helmet": "^5.2.0",
+    "react-intl": "^2.4.0",
+    "react-loadable": "^5.3.1",
+    "react-router-dom": "^4.2.2",
+    "whatwg-fetch": "^2.0.4"
+  }
+}
